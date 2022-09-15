@@ -1,4 +1,12 @@
-# Gustavo Oliveira 😎
+# Gustavo Oliveira
+
+
+   <br>
+<div  align="center"> 
+  <a href="https://www.instagram.com/elxprobr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-oliveira-642b23aa//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+
 
 Senior Elixir Developer, founder at ELXPRO @elxpro.
 
@@ -8,15 +16,10 @@ Senior Elixir Developer, founder at ELXPRO @elxpro.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theguuholi&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theguuholi&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=gustavo-oliveira-642b23aa/)](https://www.linkedin.com/in/gustavo-oliveira-642b23aa/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.oliveira@elxpro.com)](mailto:gustavo.oliveira@elxpro.com)
 
-   <br>
-<div  align="center"> 
-  <a href="https://www.instagram.com/elxprobr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-oliveira-642b23aa//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+  
+
+
 </div>
 Passionate for Elixir, and the best practices to use the language. 
 
